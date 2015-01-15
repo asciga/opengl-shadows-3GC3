@@ -1,0 +1,7 @@
+# Main project
+SOURCE_GROUP("Header Files" FILES ${MAIN_HEADERS})
+SOURCE_GROUP("Source Files" FILES ${MAIN_SOURCE})
+
+# Testing
+SOURCE_GROUP("Header Files" FILES ${TEST_HEADERS})
+SOURCE_GROUP("Source Files" FILES ${TEST_SOURCE})

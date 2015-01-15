@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/alex/projects/opengl-shadows-3GC3",
+  "command": "/usr/bin/c++    -I/home/alex/projects/opengl-shadows-3GC3/src    -Wall -Wextra -Wshadow -Winvalid-pch -Wctor-dtor-privacy -Wold-style-cast -Woverloaded-virtual -Wno-pragmas -Wno-unknown-pragmas -march=native -ffast-math -std=c++11 -o CMakeFiles/shadows.dir/src/main.cpp.o -c /home/alex/projects/opengl-shadows-3GC3/src/main.cpp",
+  "file": "/home/alex/projects/opengl-shadows-3GC3/src/main.cpp"
+}
+]

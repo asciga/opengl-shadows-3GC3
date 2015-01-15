@@ -9,6 +9,7 @@ install_manifest.txt
 shadows
 .ycm_extra_conf.py
 .ycm_extra_conf.pyc
+compile_commands.json
 
 # Compiled source #
 ###################

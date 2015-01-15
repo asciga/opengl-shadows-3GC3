@@ -1,5 +1,5 @@
 set(MAIN_SOURCE 
-	${SOURCE_DIR}/glescraft.cpp
+	${SOURCE_DIR}/glcraft.cpp
 	${SOURCE_DIR}/textures.c
 	${SOURCE_DIR}/common/shader_utils.cpp
 	)

@@ -1,7 +1,17 @@
 [
 {
   "directory": "/home/alex/projects/opengl-shadows-3GC3",
-  "command": "/usr/bin/c++    -g -I/home/alex/projects/opengl-shadows-3GC3/src    -Wall -Wextra -Wshadow -Winvalid-pch -Wctor-dtor-privacy -Wold-style-cast -Woverloaded-virtual -Wno-pragmas -Wno-unknown-pragmas -march=native -ffast-math -std=c++11 -g3 -O0 -D _DEBUG -o CMakeFiles/shadows.dir/src/main.cpp.o -c /home/alex/projects/opengl-shadows-3GC3/src/main.cpp",
-  "file": "/home/alex/projects/opengl-shadows-3GC3/src/main.cpp"
+  "command": "/usr/bin/c++    -g -I/home/alex/projects/opengl-shadows-3GC3/src    -Wall -Wextra -Wshadow -Winvalid-pch -Wctor-dtor-privacy -Wold-style-cast -Woverloaded-virtual -Wno-pragmas -Wno-unknown-pragmas -march=native -ffast-math -std=c++11 -g3 -O0 -D _DEBUG -o CMakeFiles/shadows.dir/src/glescraft.cpp.o -c /home/alex/projects/opengl-shadows-3GC3/src/glescraft.cpp",
+  "file": "/home/alex/projects/opengl-shadows-3GC3/src/glescraft.cpp"
+},
+{
+  "directory": "/home/alex/projects/opengl-shadows-3GC3",
+  "command": "/usr/bin/cc   -g -I/home/alex/projects/opengl-shadows-3GC3/src    -Wall -Wextra -Wshadow -Winvalid-pch -Wctor-dtor-privacy -Wold-style-cast -Woverloaded-virtual -Wno-pragmas -Wno-unknown-pragmas -march=native -ffast-math -std=c++11 -g3 -O0 -D _DEBUG -o CMakeFiles/shadows.dir/src/textures.c.o   -c /home/alex/projects/opengl-shadows-3GC3/src/textures.c",
+  "file": "/home/alex/projects/opengl-shadows-3GC3/src/textures.c"
+},
+{
+  "directory": "/home/alex/projects/opengl-shadows-3GC3",
+  "command": "/usr/bin/c++    -g -I/home/alex/projects/opengl-shadows-3GC3/src    -Wall -Wextra -Wshadow -Winvalid-pch -Wctor-dtor-privacy -Wold-style-cast -Woverloaded-virtual -Wno-pragmas -Wno-unknown-pragmas -march=native -ffast-math -std=c++11 -g3 -O0 -D _DEBUG -o CMakeFiles/shadows.dir/src/common/shader_utils.cpp.o -c /home/alex/projects/opengl-shadows-3GC3/src/common/shader_utils.cpp",
+  "file": "/home/alex/projects/opengl-shadows-3GC3/src/common/shader_utils.cpp"
 }
 ]
